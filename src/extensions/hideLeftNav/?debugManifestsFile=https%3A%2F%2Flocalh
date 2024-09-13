@@ -1,0 +1,5 @@
+?debugManifestsFile=https%3A%2F%2Flocalhost%3A4321%2Ftemp%2Fmanifests.js&loadSPFX=true&customActions={"fb2dd0a1-960e-4a25-bccd-b38dc89b799b"%3A{"location"%3A"ClientSideExtension.ApplicationCustomizer"%2C"properties"%3A{"testMessage"%3A"Test+message"}}}
+?debugManifestsFile=https%3A%2F%2Flocalhost%3A4321%2Ftemp%2Fmanifests.js&loadSPFX=true&customActions={"fb2dd0a1-960e-4a25-bccd-b38dc89b799b"%3A{"location"%3A"ClientSideExtension.ApplicationCustomizer"}}
+
+?debugManifestsFile=https://localhost:4321/temp/manifests.js&loadSPFX=true&customActions={"fb2dd0a1-960e-4a25-bccd-b38dc89b799b":{"location":"ClientSideExtension.ApplicationCustomizer", "properties":{"testMessage"%3A"Test+message"}}}
+?debugManifestsFile=https://localhost:4321/temp/manifests.js&loadSPFX=true&customActions={"fb2dd0a1-960e-4a25-bccd-b38dc89b799b":{"location":"ClientSideExtension.ApplicationCustomizer"}}

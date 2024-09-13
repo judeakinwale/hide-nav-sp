@@ -1,0 +1,22 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.19.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "hide-side-nav",
+    "libraryId": "15b115fb-b304-4d1c-9c0e-a3a2f4db8444",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "HideSideNav",
+    "solutionShortDescription": "HideSideNav description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}

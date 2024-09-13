@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="HideLeftNav"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="fb2dd0a1-960e-4a25-bccd-b38dc89b799b"
+        Properties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </ClientSideComponentInstance>
+</Elements>
