@@ -81,3 +81,8 @@ export default class HideLeftNavApplicationCustomizer extends BaseApplicationCus
     return Promise.resolve();
   }
 }
+
+// gulp build
+// gulp bundle --ship
+// gulp package-solution --ship
+// gulp serve
